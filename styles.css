@@ -39,7 +39,7 @@ body{
     
 }
 .nav-link li:hover{
-    background-color: rgb(255, 0, 149);
+    background-color: rgb(700, 0, 149);
 }
 .toggle-button{
     display: none;
